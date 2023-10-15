@@ -27,7 +27,8 @@ The AI-Powered Direct Sales Platform is a comprehensive system that facilitates 
    - Implements personalized shopping assistants for an improved customer shopping experience.
 
 ## Workflow
-![Diagram]([workflow.png](https://github.com/Nitesh544/EY-Hackathon-AI-Powered-Direct-Sales-Platform/blob/main/workflow.png?raw=true))
+![Diagram](https://github.com/Nitesh544/EY-Hackathon-AI-Powered-Direct-Sales-Platform/blob/main/workflow.png?raw=true)
+
 ## Installation
 
 Install my-project with npm
